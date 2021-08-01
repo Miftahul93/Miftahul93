@@ -4,7 +4,7 @@
 ### 👨About Me :
 hi, I'm Miftah, a passionate self-taught machine learning developer. My passion for machine learning lies in dreaming ideas and making them happen with an elegant interface. I take great care in the experience, architecture and code quality of the things I build.
 
-<img align="right" alt="GIF" src="https://github.com/Miftahul93/Miftahul93/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Miftahul93/Miftahul93/blob/main/code.gif?raw=true" width="450" height="300" />
 <p align="left"> <a href="https://drive.google.com/file/d/1HogUAMnQ-kuKlKX5OlUzb44xnF8LnPqj/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Miftahul93" /></a> </p>
 
 - 🔭 I’m currently studying machine learning, computer vision and deep learning projects.
