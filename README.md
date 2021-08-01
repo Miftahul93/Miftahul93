@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Miftahul Ulum</h1>
 <h2 align="center">👨‍💻 I'm a Student Machine Learning Developer</h2>
 
-<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="300" height="290" />
+### 👨About Me
+<img align="right" alt="GIF" src="https://github.com/Miftahul93/Miftahul93/blob/main/coding.gif" width="300" height="290" />
 <p align="left"> <a href="https://drive.google.com/file/d/1HogUAMnQ-kuKlKX5OlUzb44xnF8LnPqj/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Miftahul93" /></a> </p>
 
 - 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
@@ -54,7 +55,9 @@
 	<a href="https://www.facebook.com/miftahululum.poetramargasari/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mieft_tahh/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-
+	
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
 **Miftahul93/Miftahul93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
