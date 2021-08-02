@@ -2,7 +2,7 @@
 <h2 align="center">👨‍💻 I'm a Machine Learning Developer</h2>
 
 ### 👨About Me :
-hi, I'm Miftah, a passionate self-taught machine learning developer. My passion for machine learning lies in dreaming ideas and making them happen with an elegant interface. I take great care in the experience, architecture and code quality of the things I build.
+I am a self-taught machine learning developer passionate about becoming a data scientist and machine learning. My passion for machine learning lies in dreaming ideas and making them happen with an elegant interface. I take great care in the experience, architecture and code quality of the things I build.
 
 <img align="right" alt="GIF" src="https://github.com/Miftahul93/Miftahul93/blob/main/code.gif?raw=true" width="450" height="300" />
 <p align="left"> <a href="https://drive.google.com/file/d/1HogUAMnQ-kuKlKX5OlUzb44xnF8LnPqj/view?usp=sharing" target="blank"><img src="https://img.shields.io/badge/Resume-ViewInDrive-brightgreen" alt="Miftahul93" /></a> </p>
@@ -26,7 +26,7 @@ hi, I'm Miftah, a passionate self-taught machine learning developer. My passion 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda"/>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/Google_Colab-F37626.svg?&style=for-the-badge&logo=google-colab&logoColor=white" alt="Google-Colab"/> 
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Google_Colab-8B4513.svg?&style=for-the-badge&logo=google-colab&logoColor=white" alt="Google-Colab"/> 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/> 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"/>  </p>
 
